@@ -26,7 +26,7 @@ A mouse system controlled by the eyes implemented using Python. This system empl
 2. **Clone the Repository:**
    - Clone this repository to your local machine using Git:
      ```
-     git clone (https://github.com/fiaiaia/eye_contolled_mouse.git)
+     git clone https://github.com/fiaiaia/eye_controlled_mouse.git
      ```
 
 3. **Navigate to Repository Directory:**
