@@ -3,7 +3,7 @@ A mouse system controlled by the eyes implemented using Python. This system empl
 
 ## Prerequisites and Setup Environment
 ### Prerequisites:
-- Python 3 installed on your system.
+- Python 3.11 installed on your system.
 - Basic understanding of Python programming.
 - Familiarity with the OpenCV, Mediapipe, and PyAutoGUI libraries.
 - Webcam connected to your computer.
@@ -26,7 +26,7 @@ A mouse system controlled by the eyes implemented using Python. This system empl
 2. **Clone the Repository:**
    - Clone this repository to your local machine using Git:
      ```
-     git clone https://github.com/fiaiaia/eye_controlled_mouse.git
+     git clone [https://github.com/fiaiaia/eye-controlled-mouse.git](https://github.com/fiaiaia/eye-controlled-mouse.git)
      ```
 
 3. **Navigate to Repository Directory:**
